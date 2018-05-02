@@ -23,6 +23,7 @@ apt-get install docker.io
 ```
 
 Next we will pull the GITLAB/GITLAB-CE image from the docker repo
+https://hub.docker.com/r/gitlab/gitlab-ce/
 
 ```
 docker pull gitlab/gitlab-ce
