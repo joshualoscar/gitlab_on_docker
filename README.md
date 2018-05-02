@@ -1,12 +1,12 @@
 # gitlab_on_docker
-This is an example of how to use gitlab in docker with mounted volumes for backups of repo and configs.
+## This is an example of how to use gitlab in docker with mounted volumes for backups of repo and configs.
 
-=== GITLAB install and run in Docker ===
+### GITLAB install and run in Docker
 
 Written By Joshua Loscar
 May 2, 2018
 
-==== Install docker ====
+#### Install docker
 
 If you do not have docker installed,
 You will need to install it on your host machine.
